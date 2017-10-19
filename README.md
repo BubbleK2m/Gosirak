@@ -1,2 +1,2 @@
 # gosirak
-commandline meal app in go language
+commandline meal app in go language by use gogyo <https://github.com/DSMdongly>
