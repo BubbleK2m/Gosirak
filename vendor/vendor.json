@@ -1,0 +1,41 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "cHRF6zccTHuPkMe4bvaWcwMVaaM=",
+			"path": "github.com/DSMdongly/gogyo",
+			"revision": "9cc15eeaba313c7462f3ada69c633efc07ce0f62",
+			"revisionTime": "2017-10-19T05:42:20Z"
+		},
+		{
+			"checksumSHA1": "69q4K85KCjqPDg4HznrUb4j3Kds=",
+			"origin": "github.com/DSMdongly/gogyo/vendor/github.com/PuerkitoBio/goquery",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "9cc15eeaba313c7462f3ada69c633efc07ce0f62",
+			"revisionTime": "2017-10-19T05:42:20Z"
+		},
+		{
+			"checksumSHA1": "Bgs5fKx4V8jxL/m/krOLmhS4az4=",
+			"origin": "github.com/DSMdongly/gogyo/vendor/github.com/andybalholm/cascadia",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "9cc15eeaba313c7462f3ada69c633efc07ce0f62",
+			"revisionTime": "2017-10-19T05:42:20Z"
+		},
+		{
+			"checksumSHA1": "vFZmULeImYhaezCNparpc7U6gJw=",
+			"origin": "github.com/DSMdongly/gogyo/vendor/golang.org/x/net/html",
+			"path": "golang.org/x/net/html",
+			"revision": "9cc15eeaba313c7462f3ada69c633efc07ce0f62",
+			"revisionTime": "2017-10-19T05:42:20Z"
+		},
+		{
+			"checksumSHA1": "04peYTmKkHADjij9T+5KnIx7ptU=",
+			"origin": "github.com/DSMdongly/gogyo/vendor/golang.org/x/net/html/atom",
+			"path": "golang.org/x/net/html/atom",
+			"revision": "9cc15eeaba313c7462f3ada69c633efc07ce0f62",
+			"revisionTime": "2017-10-19T05:42:20Z"
+		}
+	],
+	"rootPath": "github.com/DSMdongly/gosirak"
+}
