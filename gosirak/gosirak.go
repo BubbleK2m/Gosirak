@@ -43,7 +43,6 @@ func GetSchoolRegion(region string) gogyo.SchoolRegion {
 }
 
 func ShowDailyMenu(school gogyo.School, year int, month int, day int) {
-	fmt.Printf("\n[ %s ]\n", school.Code)
 	fmt.Printf("\n[ %2d/%2d/%2d ]\n", year, month, day)
 
 	daily := school.GetDailyMenu(year, month, day)
